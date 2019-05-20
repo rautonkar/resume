@@ -9,7 +9,7 @@ Highly skilled and experienced Application and Embedded Systems Engineer with a 
 
 *	September 2018, Best IoT Software – Connected Medical Devices – 2018 IoT Innovators Award. Demonstration for Personal Medical Adherence Solution. 
 *	Managed the team for mobile application improvement program for Personal Medical Adherence Solution.
-*	Managed the team in a pilot program to certify Renesas Synergy Software Package to UL 2900-2-1.
+*	Managed the team in a pilot program to certify Renesas Synergy Software Package to upcoming security standard.
 
 *Responsibilities*
 *	Develop customer solutions for production and research applications to support sales activity in winning new business
