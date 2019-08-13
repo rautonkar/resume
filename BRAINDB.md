@@ -13,3 +13,8 @@ R. N. Noyce and M. E. Hoff, "A History of Microprocessor Development at Intel," 
 doi: 10.1109/MM.1981.290812
 keywords: {History;Microprocessors;Consumer electronics;Computer aided manufacturing;Costs;Circuits;Large scale integration;Military computing;Central Processing Unit;Read only memory},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4070616&isnumber=4070610
+
+H. T. Nagle and V. P. Nelson, "Digital Filter Implementation on 16-Bit Microcomputers," in IEEE Micro, vol. 1, no. 1, pp. 23-41, Feb. 1981.
+doi: 10.1109/MM.1981.290818
+keywords: {Digital filters;Microcomputers;Transfer functions;Filtering;Polynomials;Difference equations;Logic;Hardware;Flowcharts;Adders},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4070622&isnumber=4070610
