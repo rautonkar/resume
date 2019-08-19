@@ -18,3 +18,6 @@ H. T. Nagle and V. P. Nelson, "Digital Filter Implementation on 16-Bit Microcomp
 doi: 10.1109/MM.1981.290818
 keywords: {Digital filters;Microcomputers;Transfer functions;Filtering;Polynomials;Difference equations;Logic;Hardware;Flowcharts;Adders},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4070622&isnumber=4070610
+
+Copy Protection in Modern Microcontrollers
+https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
