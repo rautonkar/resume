@@ -19,5 +19,11 @@ doi: 10.1109/MM.1981.290818
 keywords: {Digital filters;Microcomputers;Transfer functions;Filtering;Polynomials;Difference equations;Logic;Hardware;Flowcharts;Adders},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4070622&isnumber=4070610
 
+E. E. Klingman, "Hierarchical Coding of Microcomputers for High-Level Architecture," in IEEE Micro, vol. 1, no. 1, pp. 53-56, Feb. 1981.
+doi: 10.1109/MM.1981.290826
+keywords: {Microcomputers;Read only memory;Control systems;Registers;Computer architecture;Counting circuits;PROM;Cybernetics;Logic gates;Arithmetic},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4070630&isnumber=4070610
+
+
 Copy Protection in Modern Microcontrollers
 https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
