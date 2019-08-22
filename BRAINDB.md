@@ -27,3 +27,9 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4070630&isnumber=40
 
 Copy Protection in Modern Microcontrollers
 https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
+
+
+C. Hathhorn and G. Rosu, "Dealing With C's Original Sin," in IEEE Software, vol. 36, no. 5, pp. 24-28, Sept.-Oct. 2019.
+doi: 10.1109/MS.2019.2921226
+keywords: {Computer languages;Optimization;Dynamic compiler;Operating systems;Optimizing compilers},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8802866&isnumber=8802315
