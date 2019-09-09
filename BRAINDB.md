@@ -52,3 +52,8 @@ C. P. Lickson, "Privacy and the computer age," in IEEE Spectrum, vol. 5, no. 10,
 doi: 10.1109/MSPEC.1968.5215382
 keywords: {Privacy;FCC;Home computing;Robots;Art;Protection;Computer industry;Industrial control;Communication system control;Computer interfaces},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5215382&isnumber=5215359
+
+G. Hernandez, F. Fowze, D. J. Tang, T. Yavuz, P. Traynor and K. R. B. Butler, "Toward Automated Firmware Analysis in the IoT Era," in IEEE Security & Privacy, vol. 17, no. 5, pp. 38-46, Sept.-Oct. 2019.
+doi: 10.1109/MSEC.2019.2926462
+keywords: {Microprogramming;Universal Serial Bus;Security;Static analysis;Performance evaluation;Hardware;Analytical models},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8787829&isnumber=8821441
