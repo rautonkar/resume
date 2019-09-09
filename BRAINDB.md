@@ -36,3 +36,9 @@ C. Hathhorn and G. Rosu, "Dealing With C's Original Sin," in IEEE Software, vol.
 doi: 10.1109/MS.2019.2921226
 keywords: {Computer languages;Optimization;Dynamic compiler;Operating systems;Optimizing compilers},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8802866&isnumber=8802315
+
+J. Valente, M. A. Wynn and A. A. Cardenas, "Stealing, Spying, and Abusing: Consequences of Attacks on Internet of Things Devices," in IEEE Security & Privacy, vol. 17, no. 5, pp. 10-21, Sept.-Oct. 2019.
+doi: 10.1109/MSEC.2019.2924167
+keywords: {Drones;Risk management;Cryptography;Privacy;Computer architecture;Internet of Things;Computer security},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786118&isnumber=8821441
+
