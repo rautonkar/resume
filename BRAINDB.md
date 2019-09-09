@@ -46,3 +46,9 @@ M. Bishop, "What is computer security?," in IEEE Security & Privacy, vol. 1, no.
 doi: 10.1109/MSECP.2003.1176998
 keywords: {security of data;data integrity;computer network management;network security;cybersecurity;infrastructure;routers;domain name servers;cyberspace;security requirements;security policy;security mechanisms;security assurances;security components;Data security;Computer network management},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1176998&isnumber=26429
+
+
+C. P. Lickson, "Privacy and the computer age," in IEEE Spectrum, vol. 5, no. 10, pp. 58-63, Oct. 1968.
+doi: 10.1109/MSPEC.1968.5215382
+keywords: {Privacy;FCC;Home computing;Robots;Art;Protection;Computer industry;Industrial control;Communication system control;Computer interfaces},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5215382&isnumber=5215359
