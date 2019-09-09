@@ -57,3 +57,5 @@ G. Hernandez, F. Fowze, D. J. Tang, T. Yavuz, P. Traynor and K. R. B. Butler, "T
 doi: 10.1109/MSEC.2019.2926462
 keywords: {Microprogramming;Universal Serial Bus;Security;Static analysis;Performance evaluation;Hardware;Analytical models},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8787829&isnumber=8821441
+
+Drew Davidson, Benjamin Moench, Somesh Jha, and Thomas Ristenpart. 2013. FIE on firmware: finding vulnerabilities in embedded systems using symbolic execution. In Proceedings of the 22nd USENIX conference on Security (SEC'13). USENIX Association, Berkeley, CA, USA, 463-478.
