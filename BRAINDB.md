@@ -42,3 +42,7 @@ doi: 10.1109/MSEC.2019.2924167
 keywords: {Drones;Risk management;Cryptography;Privacy;Computer architecture;Internet of Things;Computer security},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786118&isnumber=8821441
 
+M. Bishop, "What is computer security?," in IEEE Security & Privacy, vol. 1, no. 1, pp. 67-69, Jan.-Feb. 2003.
+doi: 10.1109/MSECP.2003.1176998
+keywords: {security of data;data integrity;computer network management;network security;cybersecurity;infrastructure;routers;domain name servers;cyberspace;security requirements;security policy;security mechanisms;security assurances;security components;Data security;Computer network management},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1176998&isnumber=26429
