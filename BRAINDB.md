@@ -59,3 +59,8 @@ keywords: {Microprogramming;Universal Serial Bus;Security;Static analysis;Perfor
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8787829&isnumber=8821441
 
 Drew Davidson, Benjamin Moench, Somesh Jha, and Thomas Ristenpart. 2013. FIE on firmware: finding vulnerabilities in embedded systems using symbolic execution. In Proceedings of the 22nd USENIX conference on Security (SEC'13). USENIX Association, Berkeley, CA, USA, 463-478.
+
+H. Tschofenig and E. Baccelli, "Cyberphysical Security for the Masses: A Survey of the Internet Protocol Suite for Internet of Things Security," in IEEE Security & Privacy, vol. 17, no. 5, pp. 47-57, Sept.-Oct. 2019.
+doi: 10.1109/MSEC.2019.2923973
+keywords: {Computer security;Cyber-physical systems;Internet of Things;Software development management;Microprogramming;Hardware},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8764344&isnumber=8821441
