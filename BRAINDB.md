@@ -64,3 +64,14 @@ H. Tschofenig and E. Baccelli, "Cyberphysical Security for the Masses: A Survey 
 doi: 10.1109/MSEC.2019.2923973
 keywords: {Computer security;Cyber-physical systems;Internet of Things;Software development management;Microprogramming;Hardware},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8764344&isnumber=8821441
+
+C. Perera, M. Barhamgi, S. De, T. Baarslag, M. Vecchio and K. R. Choo, "Designing the Sensing as a Service Ecosystem for the Internet of Things," in IEEE Internet of Things Magazine, vol. 1, no. 2, pp. 18-23, December 2018.
+doi: 10.1109/IOTM.2019.1800023
+keywords: {Ecosystems;Sensors;Smart homes;Smart cities;Internet of Things},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8717597&isnumber=8717585
+
+
+M. Ali, M. Vecchio and F. Antonelli, "Enabling a Blockchain-Based IoT Edge," in IEEE Internet of Things Magazine, vol. 1, no. 2, pp. 24-29, December 2018.
+doi: 10.1109/IOTM.2019.1800024
+keywords: {Internet of Things;Blockchain;Security;Cloud computing;Edge computing;Servers;Peer-to-peer computing},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8717598&isnumber=8717585
