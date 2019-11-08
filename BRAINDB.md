@@ -84,6 +84,11 @@ M. Berges and C. Samaras, "A Path Forward for Smart Cities and IoT Devices," in 
 doi: 10.1109/MIOT.2019.8892758
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892758&isnumber=8892752
 
+E. Kenneally, "Economics and Incentives Driving IoT Privacy and Security, Pt. 1," in IEEE Internet of Things Magazine, vol. 2, no. 1, pp. 6-7, March 2019.
+doi: 10.1109/MIOT.2019.8835417
+keywords: {Privacy;Data security;Computer security;Economics;Data privacy;Sensors;Internet of Things},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835417&isnumber=8835408
+
 E. Kenneally, "Economics and Incentives Driving IoT Privacy and Security, Pt. 2," in IEEE Internet of Things Magazine, vol. 2, no. 2, pp. 5-7, June 2019.
 doi: 10.1109/MIOT.2019.8892759
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892759&isnumber=8892752
