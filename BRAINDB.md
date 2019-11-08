@@ -75,3 +75,16 @@ M. Ali, M. Vecchio and F. Antonelli, "Enabling a Blockchain-Based IoT Edge," in 
 doi: 10.1109/IOTM.2019.1800024
 keywords: {Internet of Things;Blockchain;Security;Cloud computing;Edge computing;Servers;Peer-to-peer computing},
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8717598&isnumber=8717585
+
+R. Hammons and J. Myers, "Smart Cities," in IEEE Internet of Things Magazine, vol. 2, no. 2, pp. 8-9, June 2019.
+doi: 10.1109/MIOT.2019.8892761
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892761&isnumber=8892752
+
+M. Berges and C. Samaras, "A Path Forward for Smart Cities and IoT Devices," in IEEE Internet of Things Magazine, vol. 2, no. 2, pp. 2-4, June 2019.
+doi: 10.1109/MIOT.2019.8892758
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892758&isnumber=8892752
+
+E. Kenneally, "Economics and Incentives Driving IoT Privacy and Security, Pt. 2," in IEEE Internet of Things Magazine, vol. 2, no. 2, pp. 5-7, June 2019.
+doi: 10.1109/MIOT.2019.8892759
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892759&isnumber=8892752
+
