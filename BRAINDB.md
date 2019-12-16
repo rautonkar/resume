@@ -93,3 +93,6 @@ E. Kenneally, "Economics and Incentives Driving IoT Privacy and Security, Pt. 2,
 doi: 10.1109/MIOT.2019.8892759
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8892759&isnumber=8892752
 
+GOOD PRACTICES FOR SECURITY OF IOT
+Secure Software Development Lifecycle, November 2019
+URL: https://www.enisa.europa.eu/publications/good-practices-for-security-of-iot-1
