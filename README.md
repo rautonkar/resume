@@ -3,6 +3,22 @@ Highly skilled and experienced Application and Embedded Systems Engineer with a 
 
 # Employment #
 ## Renesas Electronics America Inc., Milpitas, CA (March. 2018 – Present) ##
+
+### *Systems Design Engineering Manager* ###
+
+*Responsibilities*
+
+*	Lead and manage the Systems Engineering team of 8 to 10 Engineers
+*	Manage 3rd party vendors and contractors situated locally and internationally
+*	Lead design, development, and debugging of applications and solutions for 32-bit ARM microcontrollers
+*	Drive the definition, design, and manufacturing of development and promotion kits
+*	Mentor and guide the Systems development team technically to produce best in class customer facing collateral
+*	Assign tasks, track progress through bottom's up resource loading, generate reports regularly, and conduct performance reviews of direct reports
+*	Work with various internal and external stake holders in defining and implementing collateral related to the product being released
+*	Collaborate with marketing and other engineering development teams to continually improve the product quality
+*	Enhance and support software engineering and development processes utilized in Systems Engineering team to continously improve quality and efficiency
+*	Develop customer facing solutions based on software platform; demonstrations, example programs, reference designs, etc.
+
 ### *Staff Applications Engineer* ###
 
 *Achievements*
