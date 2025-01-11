@@ -2,9 +2,16 @@
 Highly skilled and experienced Application and Embedded Systems Engineer with a strong background in Electrical and Instrumentation Engineering.
 
 # Employment #
-## Renesas Electronics America Inc., Milpitas, CA (March. 2018 – Present) ##
+## Renesas Electronics America Inc., Milpitas, CA (January 2020 – Present) ##
 
 ### *Systems Design Engineering Manager* ###
+
+*Achievements*
+Achievements:
+* 	Managed development of test environment for regression of 1.3k+ binaries on 18+ microcontroller targets 
+* 	On-boarding of 20+ members to SCRUM processes with JIRA for planning and tracking of all projects
+* 	On-boarded 3 new team members to local team
+* 	Transfer of responsibilities between 3rd party contractors for optimizing long term strategic expenditures and improving organizational alignment
 
 *Responsibilities*
 
@@ -19,6 +26,7 @@ Highly skilled and experienced Application and Embedded Systems Engineer with a 
 *	Enhance and support software engineering and development processes utilized in Systems Engineering team to continously improve quality and efficiency
 *	Develop customer facing solutions based on software platform; demonstrations, example programs, reference designs, etc.
 
+## Renesas Electronics America Inc., Milpitas, CA (March 2018 – January 2020) ##
 ### *Staff Applications Engineer* ###
 
 *Achievements*
@@ -45,7 +53,7 @@ Highly skilled and experienced Application and Embedded Systems Engineer with a 
     - Help guide internal product development team for creating new products and assist sales by guiding them to documentation supporting promoted technologies and products.
     - Assist in rapid development of applications and customer business
 
-## Renesas Electronics America Inc., Durham, NC (July. 2014 – February 2018) ##
+## Renesas Electronics America Inc., Durham, NC (July 2014 – February 2018) ##
 ### *Applications Engineer* ###
 
 Assist customers in designing products with Renesas Microcontrollers.
