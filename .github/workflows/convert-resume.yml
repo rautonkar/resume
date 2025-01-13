@@ -22,6 +22,7 @@ jobs:
     - name: Convert Markdown to HTML
       run: |
         pwd
+        ls -la
         mkdir -p output
         pandoc resume.md -o output/resume.html
 
