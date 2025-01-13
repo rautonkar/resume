@@ -1,0 +1,53 @@
+name: Convert Resume to HTML and Create Dynamic Release
+
+on:
+  push:
+    branches:
+      - master  # Run workflow on pushes to the main branch
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  convert_and_release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install Pandoc
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc
+
+    - name: Convert Markdown to HTML
+      run: |
+        mkdir -p output
+        pandoc resume.md -o output/resume.html
+
+    - name: Generate Dynamic Tag
+      id: generate_tag
+      run: |
+        DATE=$(date +'%Y.%m.%d')
+        SHORT_SHA=$(git rev-parse --short HEAD)
+        echo "tag=v${DATE}-${SHORT_SHA}" >> $GITHUB_ENV
+
+    - name: Create a Release
+      id: create_release
+      uses: actions/create-release@v1
+      with:
+        tag_name: ${{ env.tag }}
+        release_name: "Resume Release ${{ env.tag }}"
+        body: |
+          This release contains the latest version of the resume converted to HTML.
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload HTML to Release
+      uses: actions/upload-release-asset@v1
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: output/resume.html
+        asset_name: resume.html
+        asset_content_type: text/html
