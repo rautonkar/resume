@@ -1,9 +1,9 @@
 # About #
-Highly skilled and experienced Application and Embedded Systems Engineer with a strong background in Engineering Management, and Electrical and Instrumentation Engineering.
+Highly skilled and experienced Application and Embedded Systems Engineer with recent experience in Engineering Management, and a strong background in Electrical and Instrumentation Engineering.
 
 # Employment #
 ## Renesas Electronics America Inc., Milpitas, CA (January 2020 – Present) ##
-### * Sr. Manager, Systems Design Engineering * ###
+### *Sr. Manager, Systems Design Engineering* ###
 
 *Achievements*
 
