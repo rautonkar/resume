@@ -3,11 +3,10 @@ Highly skilled and experienced Application and Embedded Systems Engineer with a 
 
 # Employment #
 ## Renesas Electronics America Inc., Milpitas, CA (January 2020 – Present) ##
-
 ### *Systems Design Engineering Manager* ###
 
 *Achievements*
-Achievements:
+
 * 	Managed development of test environment for regression of 1.3k+ binaries on 18+ microcontroller targets 
 * 	On-boarding of 20+ members to SCRUM processes with JIRA for planning and tracking of all projects
 * 	On-boarded 3 new team members to local team
