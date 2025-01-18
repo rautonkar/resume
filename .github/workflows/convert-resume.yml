@@ -22,7 +22,7 @@ jobs:
     - name: Convert Markdown to HTML
       run: |
         mkdir -p output
-        pandoc README.md -o output/resume.html
+        pandoc README.md -o output/index.html --self-contained --css=github-pandoc.css
 
     - name: Generate Dynamic Tag
       id: generate_tag
@@ -48,8 +48,8 @@ jobs:
       uses: actions/upload-release-asset@v1
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: output/resume.html
-        asset_name: resume.html
+        asset_path: output/index.html
+        asset_name: index.html
         asset_content_type: text/html
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
