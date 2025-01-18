@@ -1,16 +1,18 @@
 # About #
-Highly skilled and experienced Application and Embedded Systems Engineer with a strong background in Electrical and Instrumentation Engineering.
+Highly skilled and experienced Application and Embedded Systems Engineer with a strong background in Engineering Management, and Electrical and Instrumentation Engineering.
 
 # Employment #
 ## Renesas Electronics America Inc., Milpitas, CA (January 2020 – Present) ##
-### *Systems Design Engineering Manager* ###
+### * Sr. Manager, Systems Design Engineering * ###
 
 *Achievements*
 
-* 	Managed development of test environment for regression of 1.3k+ binaries on 18+ microcontroller targets 
+* 	Managed development of test environment for regression of 2.5k+ binaries on 18+ microcontroller targets 
 * 	On-boarding of 20+ members to SCRUM processes with JIRA for planning and tracking of all projects
-* 	On-boarded 3 new team members to local team
+* 	Hired and On-boarded 4 new team members to local team
 * 	Transfer of responsibilities between 3rd party contractors for optimizing long term strategic expenditures and improving organizational alignment
+* 	Automated status report generation using python, Pandas, and JIRA API
+* 	Asset value analysis through use of eazyBI enabling accountability for asset creation and asset promotion
 
 *Responsibilities*
 
@@ -96,7 +98,7 @@ Tested and debugged firmware for uEZ Rapid Application Development Platform and 
 ### *Graduate Assistant* ###
 Assisted Dr. James Conrad in writing material for an educational book along with other tasks related to teaching the Embedded Systems course for undergraduate and graduate students.
 
-*    Authored two chapters, ‘Serial communications using USART, SPI and I2C protocols’, and ‘Software Development, Debugging and Testing’, in the book ‘Introduction to Embedded Systems using the RX62N Microcontroller’.
+*    Authored two chapters, ‘Serial communications using USART, SPI and I2C protocols’, and ‘Software Development, Debugging and Testing’, in the book ‘Introduction to Embedded Systems using the RX62N Microcontroller’. ISBN: 978-1-935772-99-6.
 *    Implementation of character and object recognition algorithms on the Beagleboard xM. 
 *    Transfer of data using Socket Programming, Wireless LAN dongle WL- 167G and Single Board Computers (TS7200). 
 *    Development of a Low cost, Low Power Wireless Quiz System using the eZ430- RF2500 Tool kit and SimpliciTI. 
