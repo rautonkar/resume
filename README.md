@@ -13,6 +13,7 @@ Highly skilled and experienced Application and Embedded Systems Engineer with re
 * 	Transfer of responsibilities between 3rd party contractors for optimizing long term strategic expenditures and improving organizational alignment
 * 	Automated status report generation using python, Pandas, and JIRA API
 * 	Asset value analysis through use of eazyBI enabling accountability for asset creation and asset promotion
+* 	Granted U.S. Patent: US 11,163,402 Mutual Capacitive Touch Sensing Anomaly Detection
 
 *Responsibilities*
 
