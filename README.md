@@ -38,6 +38,7 @@ Highly skilled and experienced Application and Embedded Systems Engineer with re
 *	Managed the team in a pilot program to certify Renesas Synergy Software Package to upcoming security standard.
 
 *Responsibilities*
+
 *	Develop customer solutions for production and research applications to support sales activity in winning new business
     - Use in-house tools and design custom solutions for new large volume customers engaged in business with Renesas.
 *	Implement, Present and sell technical solutions (hardware and software) to customers
